@@ -25,7 +25,7 @@ class FizzBuzz {
             }
         }
 
-        // My quick solution with ArrayList doing with the steps from codecademy!
+        // My quick solution with ArrayList doing without using the steps from codecademy!
         ArrayList fizzBuzz = new ArrayList<>();
 
         for (int i = 1; i <= 100; i++) {
